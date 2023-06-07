@@ -1,0 +1,22 @@
+{
+  "settings": "Созламлар",
+  "agreementPolicy": "Шартнома Сиёсати",
+  "chooseLanguage": "Тилни танлаш",
+  "surahs": "Суралар",
+  "juzlar": "Жузлар",
+  "hatchuplar": "Хатчўплар",
+  "nightMode": "Тунги режим",
+  "shareApp": "Иловани улашинг",
+  "fontSize": "Матн ҳажми",
+  "downloadApp": "Тафсир Муяссар иловасини юклаб олинг",
+  "oyat": "Оят",
+  "openSurah": "Сурани очиш",
+  "openJuz": "Жузни очиш",
+  "search": "Қидириш",
+  "lastRead": "Охирги ўқилган",
+  "feedback": "Фикр-мулоҳаза",
+  "requiredField": "Майдонни тўлдириш",
+  "name": "Исм",
+  "invalidEmail": "Email нотўғри тўлдирилган",
+  "about": "Китоб ҳақида"
+}
